@@ -27,7 +27,7 @@
         <li>Security Valuation Modeling
         <li>Financial Correlation Analysis
         <li>Efficient Frontier Portfolios
-        <li>Monte Carlo Simulations
+        <li>Monte Carlo Simulation: Risk Analysis
       </td>
     </tr>
   </thead>
