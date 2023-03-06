@@ -32,15 +32,15 @@
     <tr>
       <td align=center>
         <b>EMAIL ME</b><br>
-        <a href="mailto:JosephFrancisRe@gmail.com"><img src='https://svgshare.com/i/qtW.svg' width="80" height="80" /></a>
+        <a href="mailto:JosephFrancisRe@gmail.com" target="_blank" rel="noopener noreferrer"><img src='https://svgshare.com/i/qtW.svg' width="80" height="80" /></a>
       </td>
       <td align=center>
         <b>LINKEDIN</b><br>
-        <a href="https://www.linkedin.com/in/joseph-re/"><img src="https://skillicons.dev/icons?i=linkedin" width="80" height="80" /></a>
+        <a href="https://www.linkedin.com/in/joseph-re/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="80" height="80" /></a>
       </td>
       <td align=center>
         <b>TWITTER</b><br>
-        <a href="https://twitter.com/josephfrancisre"><img src="https://skillicons.dev/icons?i=twitter" width="80" height="80" /></a>
+        <a href="https://twitter.com/josephfrancisre" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="80" height="80" /></a>
       </td>
     </tr>
 </table>
