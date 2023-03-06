@@ -40,7 +40,7 @@
     </td>
     <td>
       <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. Uses MLB Statcast data from a webcrawling API to predict batter statistics for the 2023 season.
-      <li>Created a housing linear regression with visualization scatter plot to show correlation between square footage and price.
+      <li>Created a housing linear regression with scatter plot to show correlation between square footage and price.
       <li>Currently reading "Machine Learning with PyTorch and SciKit-Learn" by Raschka, Li, and Mirjalili.
     </td>
   </tr>
