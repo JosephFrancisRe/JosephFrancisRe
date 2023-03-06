@@ -17,11 +17,12 @@
         <li>Time Value of Money: PV / FV<br>
         <li>NPV / IRR Calculations<br>
         <li>Loan Amortization Scenario Analysis<br>
+        <li>Equity Index Visualization: S&P500<br>
       </td>
       <td>
-        <li>Equity Index Graphing: S&P500<br>
-        <li>Volatility Report: Gold Commodity
-        <li>Moving Average Forecasting: Gold
+        <li>Commodity Volatility Report: Gold
+        <li>Moving Average Forecasting
+        <li>Exponential Smoothing Forecast<br>
       </td>
     </tr>
   </thead>
