@@ -9,7 +9,7 @@
         <b>FINANCIAL<br>MODELING</b>
       </td>
       <td colspan="2">
-        <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center><br>
+        <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: </center><br>
       </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
       <b>MACHINE<br>LEARNING&nbsp;</b>
     </td>
     <td>
-      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
       <li>Uses MLB Statcast data from a webcrawling API to predict batter statistics for the 2023 season.
       <li>Currently reading "Machine Learning with PyTorch and SciKit-Learn" by Raschka, Li, and Mirjalili.
     </td>
