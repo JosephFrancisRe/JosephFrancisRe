@@ -12,6 +12,7 @@
       <li>Time Value of Money Exercises: PV / FV<br>
       <li>NPV / IRR Calculations<br>
       <li>Loan Amortization Scenario Analysis<br>
+      <li>Equity Index Graphing: S&P500<br>
     </td>
   </tr>
 </table>
