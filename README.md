@@ -32,7 +32,7 @@
       <b>MACHINE<br>LEARNING&nbsp;</b>
     </td>
     <td>
-      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
       <li>Uses MLB Statcast data from a webcrawling API to predict batter statistics for the 2023 season.
       <li>Currently reading "Machine Learning with PyTorch and SciKit-Learn" by Raschka, Li, and Mirjalili.
     </td>
