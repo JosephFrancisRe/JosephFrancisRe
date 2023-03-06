@@ -20,7 +20,7 @@
       </td>
       <td>
         <li>Equity Index Graphing: S&P500<br>
-        <li>Commodity Pricing: Gold
+        <li>Commodity Volatility: Gold
       </td>
     </tr>
   </thead>
