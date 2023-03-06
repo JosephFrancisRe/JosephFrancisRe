@@ -25,7 +25,7 @@
         <li>Exponential Smoothing Forecast
         <li>Trading System using Moving Avg Signals
         <li>Security Valuation with Price Models
-        <li>Financial Correlation Analysis
+        <li>Security Correlation Calculations
         <li>Efficient Frontier Portfolios
         <li>Monte Carlo Simulation: Risk Analysis
       </td>
