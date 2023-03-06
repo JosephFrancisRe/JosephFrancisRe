@@ -29,12 +29,18 @@
 </table>
 
 <table align=center>
-  <tr>
-    <td align=center>
-      <b>CONTACT ME</b><br>
-      <a href="mailto:JosephFrancisRe@gmail.com"><img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" /></a>
-      <a href="https://www.linkedin.com/in/joseph-re/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-      <a href="https://twitter.com/josephfrancisre"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-    </td>
-  </tr>
+    <tr>
+      <td align=center>
+        <b>EMAIL ME</b><br>
+        <a href="mailto:JosephFrancisRe@gmail.com"><img src='https://svgshare.com/i/qtW.svg' width="80" height="80" /></a>
+      </td>
+      <td align=center>
+        <b>LINKEDIN</b><br>
+        <a href="https://www.linkedin.com/in/joseph-re/"><img src="https://skillicons.dev/icons?i=linkedin" width="80" height="80" /></a>
+      </td>
+      <td align=center>
+        <b>TWITTER</b><br>
+        <a href="https://twitter.com/josephfrancisre"><img src="https://skillicons.dev/icons?i=twitter" width="80" height="80" /></a>
+      </td>
+    </tr>
 </table>
