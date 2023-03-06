@@ -14,15 +14,16 @@
     </tr>
     <tr>
       <td>
-        <li>Time Value of Money: PV / FV<br>
-        <li>NPV / IRR Calculations<br>
-        <li>Loan Amortization Scenario Analysis<br>
-        <li>Equity Index Visualization: S&P500<br>
+        <li>Time Value of Money: PV / FV
+        <li>NPV / IRR Calculations
+        <li>Loan Amortization Scenario Analysis
+        <li>Equity Index Visualization: S&P500
       </td>
       <td>
         <li>Commodity Volatility Report: Gold
         <li>Moving Average Forecasting
-        <li>Exponential Smoothing Forecast<br>
+        <li>Exponential Smoothing Forecast
+        <li>Stock Trading System: NVIDIA
       </td>
     </tr>
   </thead>
