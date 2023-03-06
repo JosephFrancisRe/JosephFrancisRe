@@ -9,7 +9,7 @@
         <b>FINANCIAL<br>MODELING</b>
       </td>
       <td colspan="2">
-        <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: &nbsp;</center><br>
+        <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: &nbsp;&nbsp;</center><br>
       </td>
     </tr>
     <tr>
