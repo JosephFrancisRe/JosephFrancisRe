@@ -19,13 +19,15 @@
         <li>Loan Amortization Scenario Analysis
         <li>Equity Index Visualization: S&P500
         <li>Commodity Volatility Report: Gold
+        <li>Moving Average Forecasting
       </td>
       <td>
-        <li>Moving Average Forecasting
         <li>Exponential Smoothing Forecast
         <li>Trading System using Moving Avg Signals
         <li>Security Valuation Modeling
         <li>Financial Correlation Analysis
+        <li>Efficient Frontier Portfolios
+        <li>Monte Carlo Simulations
       </td>
     </tr>
   </thead>
