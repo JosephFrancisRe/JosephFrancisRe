@@ -18,12 +18,14 @@
         <li>NPV / IRR Calculations
         <li>Loan Amortization Scenario Analysis
         <li>Equity Index Visualization: S&P500
+        <li>Commodity Volatility Report: Gold
       </td>
       <td>
-        <li>Commodity Volatility Report: Gold
         <li>Moving Average Forecasting
         <li>Exponential Smoothing Forecast
         <li>Trading System using Moving Avg Signals
+        <li>Security Valuation Modeling
+        <li>Financial Correlation Analysis
       </td>
     </tr>
   </thead>
