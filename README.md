@@ -23,7 +23,7 @@
         <li>Commodity Volatility Report: Gold
         <li>Moving Average Forecasting
         <li>Exponential Smoothing Forecast
-        <li>Stock Trading System: NVIDIA
+        <li>Trading System using Moving Avg Signals
       </td>
     </tr>
   </thead>
