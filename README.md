@@ -15,7 +15,6 @@
     <tr>
       <td>
         <li>Time Value of Money: PV / FV / NPV / IRR
-        <li>NPV / IRR Calculations
         <li>Loan Amortization Scenario Analysis
         <li>Equity Index Visualization: S&P500
         <li>Commodity Volatility Report: Gold
