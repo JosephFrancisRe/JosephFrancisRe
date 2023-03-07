@@ -26,7 +26,7 @@
         <li>Trading System using Moving Avg Signals
         <li>Security Valuation with Price Models
         <li>Security Correlation Calculations
-        <li>Efficient Frontier Portfolios Construction
+        <li>Efficient Frontier Graphing
         <li>Monte Carlo Simulation: Risk Analysis
       </td>
     </tr>
