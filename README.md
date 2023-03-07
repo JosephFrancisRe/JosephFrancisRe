@@ -14,20 +14,21 @@
     </tr>
     <tr>
       <td>
-        <li>Time Value of Money: PV / FV
+        <li>Time Value of Money: PV / FV / NPV / IRR
         <li>NPV / IRR Calculations
         <li>Loan Amortization Scenario Analysis
         <li>Equity Index Visualization: S&P500
         <li>Commodity Volatility Report: Gold
         <li>Moving Average Forecasting
+        <li>Exponential Smoothing Forecast
       </td>
       <td>
-        <li>Exponential Smoothing Forecast
         <li>Trading System using Moving Avg Signals
         <li>Security Valuation with Price Models
         <li>Security Correlation Calculations
         <li>Efficient Frontier Graphing
         <li>Monte Carlo Simulation: Risk Analysis
+        <li>Black-Scholes Options Pricing
       </td>
     </tr>
   </thead>
