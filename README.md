@@ -39,7 +39,7 @@
       <b>&nbsp;&nbsp;&nbsp;MACHINE&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;LEARNING&nbsp;&nbsp;&nbsp;</b>
     </td>
     <td>
-      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. Uses MLB Statcast data from a webcrawling API to predict batter statistics for the 2023 season.
+      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models.
       <li>Created a housing linear regression with scatter plot to show correlation between square footage and price.
       <li>Currently reading "Machine Learning with PyTorch and SciKit-Learn" by Raschka, Li, and Mirjalili.
     </td>
@@ -52,11 +52,11 @@
       <b>SOFTWARE<br>ENGINEERING</b>
     </td>
     <td>
-      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic board resizing.
+      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic resizing.
       <li>Webcrawler (Java, JS, HTML, CSS): multithreaded webcrawler and website using Maven that scrapes images.
       <li>Claims Backend (Python): Django application where users construct arguments that can be voted on.
       <li>Sorting Algorithm Analyzer Tool (C++): runspeed, comparison, and swap analyzer tool for sorting numbers.
-      <li>Password Cracking (Python): Reverse engineers salted and hashed passwords by using dictionary of common passwords.
+      <li>Password Cracking (Python): Reverse engineers hash salted passwords by using dictionary of common passwords.
     </td>
   </tr>
 </table>
