@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <td rowspan="2">
-        <b>FINANCIAL<br>MODELING</b>
+        <b>&nbsp;&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;MODELING&nbsp;&nbsp;&nbsp;</b>
       </td>
       <td colspan="2">
         <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: &nbsp;&nbsp;</center><br>
@@ -36,12 +36,27 @@
 <table align=center>
   <tr>
     <td align=center>
-      <b>MACHINE<br>LEARNING&nbsp;</b>
+      <b>&nbsp;&nbsp;&nbsp;&nbsp;MACHINE&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;LEARNING&nbsp;&nbsp;&nbsp;&nbsp;</b>
     </td>
     <td>
       <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. Uses MLB Statcast data from a webcrawling API to predict batter statistics for the 2023 season.
       <li>Created a housing linear regression with scatter plot to show correlation between square footage and price.
       <li>Currently reading "Machine Learning with PyTorch and SciKit-Learn" by Raschka, Li, and Mirjalili.
+    </td>
+  </tr>
+</table>
+
+<table align=center>
+  <tr>
+    <td align=center>
+      <b>SOFTWARE<br>ENGINEERING</b>
+    </td>
+    <td>
+      <li>Built a fully functional game of Minesweeper that uses multithreading server infrastructure, database communication, and dynamic board resizing. All code and user interface elements are innate to Java.
+      <li>Full stack hackathon submission for a multithreaded webcrawler that scrapes images from URLs that have the same domain name as the original website. Written in Java, JavaScript, HTML, and CSS.
+      <li>This Django repository is a proof of concept and the backend for a website that will use React for its frontend. The website lets users build arguments that other users can vote on.
+      <li>This repository contains C++ code for an analyzer tool. The custom built tool compares 5 major sorting algorithms based on runtime speed, comparison usage, and swap executions.
+      <li>A Python tool that uses a dictionary of commonly used passwords to reverse engineer the plaintext form of salted and hashed passwords both using an offline and an online interface.
     </td>
   </tr>
 </table>
