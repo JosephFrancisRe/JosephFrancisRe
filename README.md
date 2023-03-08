@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <td rowspan="2">
-        <b>&nbsp;&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;MODELING&nbsp;&nbsp;&nbsp;</b>
+        <b>&nbsp;&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;MODELING&nbsp;&nbsp;</b>
       </td>
       <td colspan="2">
         <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: &nbsp;&nbsp;</center><br>
