@@ -9,7 +9,7 @@
         <b>&nbsp;&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;MODELING&nbsp;&nbsp;</b>
       </td>
       <td colspan="2">
-        <center>Built a series of financial models and data visualization projects in Python using numpy, pandas, and matplotlib:</center><br>
+        <center>Built a series of financial models and data visualization projects in Python using numpy, pandas, and matplotlib: &nbsp;</center><br>
       </td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@
       <b>SOFTWARE<br>ENGINEERING</b>
     </td>
     <td>
-      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic resizing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic resizing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <li>Webcrawler (Java, JS, HTML, CSS): multithreaded webcrawler and website using Maven that scrapes images.
       <li>Claims Backend (Python): Django application where users construct arguments that can be voted on.
       <li>Sorting Algorithm Analyzer Tool (C++): runspeed, comparison, and swap analyzer tool for sorting numbers.
