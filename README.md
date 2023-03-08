@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <td rowspan="2">
-        <b>&nbsp;&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;MODELING&nbsp;&nbsp;&nbsp;</b>
+        <b>&nbsp;&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;MODELING&nbsp;&nbsp;&nbsp;</b>
       </td>
       <td colspan="2">
         <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: &nbsp;&nbsp;</center><br>
@@ -36,7 +36,7 @@
 <table align=center>
   <tr>
     <td align=center>
-      <b>&nbsp;&nbsp;&nbsp;&nbsp;MACHINE&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;LEARNING&nbsp;&nbsp;&nbsp;&nbsp;</b>
+      <b>&nbsp;&nbsp;&nbsp;MACHINE&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;LEARNING&nbsp;&nbsp;&nbsp;</b>
     </td>
     <td>
       <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. Uses MLB Statcast data from a webcrawling API to predict batter statistics for the 2023 season.
