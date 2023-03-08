@@ -52,11 +52,11 @@
       <b>SOFTWARE<br>ENGINEERING</b>
     </td>
     <td>
-      <li>Built a fully functional game of Minesweeper that uses multithreading server infrastructure, database communication, and dynamic board resizing. All code and user interface elements are innate to Java.
-      <li>Full stack hackathon submission for a multithreaded webcrawler that scrapes images from URLs that have the same domain name as the original website. Written in Java, JavaScript, HTML, and CSS.
-      <li>This Django repository is a proof of concept and the backend for a website that will use React for its frontend. The website lets users build arguments that other users can vote on.
-      <li>This repository contains C++ code for an analyzer tool. The custom built tool compares 5 major sorting algorithms based on runtime speed, comparison usage, and swap executions.
-      <li>A Python tool that uses a dictionary of commonly used passwords to reverse engineer the plaintext form of salted and hashed passwords both using an offline and an online interface.
+      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic board resizing.
+      <li>Webcrawler (Java, JS, HTML, CSS): multithreaded webcrawler and website using Maven that scrapes images.
+      <li>Claims Backend (Python): Django application where users construct arguments that can be voted on.
+      <li>Sorting Algorithm Analyzer Tool (C++): runspeed, comparison, and swap analyzer tool for sorting numbers.
+      <li>Password Cracking (Python): Reverse engineers salted and hashed passwords by using dictionary of common passwords.
     </td>
   </tr>
 </table>
