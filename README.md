@@ -9,7 +9,7 @@
         <b>&nbsp;&nbsp;&nbsp;FINANCIAL&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;MODELING&nbsp;&nbsp;</b>
       </td>
       <td colspan="2">
-        <center>Built financial models and data visualization projects in Python using numpy, pandas, and matplotlib for the below: &nbsp;</center><br>
+        <center>Built a series of financial models and data visualization projects in Python using numpy, pandas, and matplotlib:</center><br>
       </td>
     </tr>
     <tr>
@@ -39,7 +39,7 @@
       <b>&nbsp;&nbsp;&nbsp;MACHINE&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;LEARNING&nbsp;&nbsp;&nbsp;</b>
     </td>
     <td>
-      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <li>Built a desktop application to import dataframes, manipulate them, and build linear regression models. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <li>Created a housing linear regression with scatter plot to show correlation between square footage and price.
       <li>Currently reading "Machine Learning with PyTorch and SciKit-Learn" by Raschka, Li, and Mirjalili.
     </td>
@@ -52,7 +52,7 @@
       <b>SOFTWARE<br>ENGINEERING</b>
     </td>
     <td>
-      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic resizing.
+      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic resizing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <li>Webcrawler (Java, JS, HTML, CSS): multithreaded webcrawler and website using Maven that scrapes images.
       <li>Claims Backend (Python): Django application where users construct arguments that can be voted on.
       <li>Sorting Algorithm Analyzer Tool (C++): runspeed, comparison, and swap analyzer tool for sorting numbers.
