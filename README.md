@@ -52,7 +52,7 @@
       <b>SOFTWARE<br>ENGINEERING</b>
     </td>
     <td>
-      <li><b>Minesweeper (Java):</b> multithreading server infrastructure, database communication, and dynamic resizing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><b>Minesweeper (Java):</b> multithreading server infrastructure, database communication, and dynamic resizing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <li><b>Webcrawler (Java, JS, HTML, CSS):</b> multithreaded webcrawler and website using Maven that scrapes images.
       <li><b>Claims Backend (Python):</b> Django application where users construct arguments that can be voted on.
       <li><b>Sorting Algorithm Analyzer Tool (C++):</b> runspeed, comparison, and swap analyzer tool for sorting numbers.
