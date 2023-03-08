@@ -52,11 +52,11 @@
       <b>SOFTWARE<br>ENGINEERING</b>
     </td>
     <td>
-      <li>Minesweeper (Java): multithreading server infrastructure, database communication, and dynamic resizing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <li>Webcrawler (Java, JS, HTML, CSS): multithreaded webcrawler and website using Maven that scrapes images.
-      <li>Claims Backend (Python): Django application where users construct arguments that can be voted on.
-      <li>Sorting Algorithm Analyzer Tool (C++): runspeed, comparison, and swap analyzer tool for sorting numbers.
-      <li>Password Cracking (Python): Reverse engineers hash salted passwords by using a password dictionary.
+      <li><b>Minesweeper (Java):</b> multithreading server infrastructure, database communication, and dynamic resizing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <li><b>Webcrawler (Java, JS, HTML, CSS):</b> multithreaded webcrawler and website using Maven that scrapes images.
+      <li><b>Claims Backend (Python):</b> Django application where users construct arguments that can be voted on.
+      <li><b>Sorting Algorithm Analyzer Tool (C++):</b> runspeed, comparison, and swap analyzer tool for sorting numbers.
+      <li><b>Password Cracking (Python):</b> Reverse engineers hash salted passwords by using a password dictionary.
     </td>
   </tr>
 </table>
